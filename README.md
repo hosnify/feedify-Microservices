@@ -41,6 +41,3 @@ Ionic uses enviornment files located in `./src/enviornments/enviornment.*.ts` to
 ### Running the Development Server
 Ionic CLI provides an easy to use development server to run and autoreload the frontend. This allows you to make quick changes and see them in real time in your browser. To run the development server, open terminal and run:
 
-```bash
-ionic serve
-```
