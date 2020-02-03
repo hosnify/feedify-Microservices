@@ -3,7 +3,7 @@ services:
   reverseproxy:
     build:
       context: .
-    image: scheele/reverseproxy 
+    image: abosamraa/reverseproxy 
   backend_user:
     build:
       context: ../../udacity-c3-restapi-user
