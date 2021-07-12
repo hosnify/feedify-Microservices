@@ -1,6 +1,6 @@
-# Udagram Microservices - udacity cloud developer nanodegree - project 03
+# feedify-Microservices
 
-Refactor Udagram app into Microservices and Deploy it using docker and kubernetes.
+Cloud Microservices practice project on AWS
 
 ## Prerequisites
 - kubeone v0.9.0 or newer, install it from https://github.com/kubermatic/kubeone
